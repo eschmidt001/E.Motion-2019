@@ -92,7 +92,7 @@ Need/Want: ...
 > Come up with some idea for interactive features for your site.
 
   - Ticket order form (no payment)
-  - EBoard member bios pop up upon clicking their name/headshot.
+  - E-Board member bios pop up upon clicking their name/headshot.
 
 
 
@@ -104,9 +104,15 @@ Need/Want: ...
 
 > **Note:** Card sorting is used to organize your site's content. For each piece of content identified in the previous section, write a summary of that content onto a card. Now sort the cards. The grouping of cards provides you with your pages for your website. **Do not write down the pages you want and then "card sort" those. That is not card sorting.**
 
+![](cardsorting1.jpg)
+![](cardsorting2.jpg)
+![](cardsorting3.jpg)
 
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
+
+
+
 
 
 ## User Testing (_optional_)
