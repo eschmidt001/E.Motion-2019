@@ -121,6 +121,8 @@ Need/Want: ...
 ![](cardsorting2.jpg)
 ![](cardsorting3.jpg)
 
+We card sorted four times with the pages of about, events, team, and apply in mind. Our second card sorting included the quarter card and information about their upcoming showcase. However, we thought that it would be better if that was grouped into the events page because that reflects more of the page and not in the about page. 
+
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
 
