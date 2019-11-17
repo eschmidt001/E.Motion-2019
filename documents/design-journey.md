@@ -100,6 +100,19 @@ Need/Want: ...
 
 ## Design Process (Milestone 1)
 > Document your design process. Show us your card sorting. Design your navigation from the card sorting. Outline your navigation. Describe your theme. Show us sketches of your site (mobile and desktop versions). etc.
+
+**Desktop Design:**
+![](index.jpg)
+![](event.jpg)
+![](eboard.jpg)
+![](apply.jpg)
+
+**Mobile Design:**
+![](m-index.jpg)
+![](m-event.jpg)
+![](m-eboard.jpg)
+![](m-apply.jpg)
+
 > You should show us how your came up with your design and how your iterated on that design; show us the evolution of your design.
 
 > **Note:** Card sorting is used to organize your site's content. For each piece of content identified in the previous section, write a summary of that content onto a card. Now sort the cards. The grouping of cards provides you with your pages for your website. **Do not write down the pages you want and then "card sort" those. That is not card sorting.**
