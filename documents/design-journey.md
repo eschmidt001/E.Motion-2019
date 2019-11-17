@@ -39,6 +39,7 @@ Need/Want: ...
 > Tell us about the users (target audience) for this website.
 
 
+
 ## Discovering Users' Needs (Milestone 1)
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
@@ -61,24 +62,38 @@ Need/Want: ...
 ## User Testing Plan (Milestone 1)
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!
 
-1.
+1. Order 2 tickets for the next upcoming show.
 
-2.
+2. Find what emotion danced in the past.
 
-3.
+3. Find the president of emotion.
 
-4.
+4. Apply to join emotion.
 
 
 ## Content (Milestone 1)
 > Plan out your site's content (text, images, etc.). Make a list of **all** the content you will need. This list should be **exhaustive**.
 
-- TODO
-- TODO
-- ...
+  - About
+  	- Image of the team
+  - Paragraph describing emotion
+  - Their vision and values
+  - Events
+  	- Upcoming showcase
+  - Gallery Photos from past showcases
+  - E-board
+  	- Headshots/names of E-Board
+  	- short E-Board bios
+  - Apply / Join
+  - Each page has same footer about email to contact/link to facebook/link to youtube/link to instagram
+
 
 ## Interactivity Ideas (Milestone 1)
 > Come up with some idea for interactive features for your site.
+
+  - Ticket order form (no payment)
+  - EBoard member bios pop up upon clicking their name/headshot.
+
 
 
 # Design & Evaluation
