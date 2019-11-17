@@ -54,11 +54,11 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 
 8. What are our procedures for re-visiting this contract?
-
+  - Every week during our work sessions on Sunday, we will ask ourselves if there is anything we would like to change. If so, we will discuss and revisit accordingly. 
 
 
 9. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
-
+  - After we finish our project 4, we will get celebratory bubble tea at UTEA.
 
 
 ## Using your Contract
