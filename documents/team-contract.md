@@ -23,10 +23,14 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 
 3. By what means and how frequently will we meet or communicate?
+  - Meet once a week on Sundays at 2PM
+  - Each time a member is working on a project (almost every day), we will communicate with each other.
 
 
 
 4. How will we communicate and work with our client?
+  - Communication is established through texting and in person meetings, phone calls if necessary
+  - We will meet once a week with our client 
 
 
 
