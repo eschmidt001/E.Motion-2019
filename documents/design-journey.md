@@ -111,6 +111,11 @@ Need/Want: ...
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
 
+- Ticket Order form (no payment) - allows client to sell tickets to audience without in-person contact
+- Eboard Bois pop out after clicking the person’s name - this allows the bios to be part of the page (thus highlighting the group’s membership) without cluttering the page.
+- Mobile Navigation bar pop-out: the navigation bar appears after clicking on the navigation icon. This creates a cleaner mobile site experience for the user.
+- Desktop Navigation link hover holographic: the responsiveness of the navigation link provides positive feedback to the user that it is a clickable link. 
+
 
 
 
