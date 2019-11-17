@@ -30,19 +30,26 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 4. How will we communicate and work with our client?
   - Communication is established through texting and in person meetings, phone calls if necessary
-  - We will meet once a week with our client 
+  - We will meet once a week with our client
 
 
 
 5. What roles will we create? Include a description of exactly what each role is responsible for.
+ - Client First Point: this person is the client’s first point of contact to schedule meetings and communicate last minute changes or addendums, the client knows to reach out first to this person.
+ - Each page will be assigned to one person, and other members will jump around to help each other as needed
 
 
 
-6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
+6. How will we hold ourselves and one another accountable?
+ - What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised? To hold each other accountable, we will discuss accountability every week during our meetings. We will have weekly goals and deliverables due by the following meeting. Major revisions will be made during our work sessions to make sure everyone is doing similar work.
+ - We will say “Hello (insert name here), it appears that you have not been contributing equally. Is there a reason why and how can we better support you?”
+ - To a team member who fails to deliver what was promised, we will say “Hello (insert name), it appears that you have failed to complete your deliverables. Is there a reason why and when it the next best deadline for you to achieve your goals?”
 
 
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
+ - We tell each other, discuss, and if we do not reach consensus, vote and everyone should support that result for the team.
+ - If it’s a disagreement on design, we would discuss with the clients and let the client choose which one is better.
 
 
 
