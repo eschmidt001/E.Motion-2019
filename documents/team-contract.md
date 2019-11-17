@@ -9,10 +9,16 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 **Your group contract/working agreement should probably include these elements. Feel free to add other terms, too.**
 
 1. To what goals do we all commit?
+  - Each person contributes approximately 9 hours a week to this project, making the work equal
+  - Everyone should contribute to design journey and coding
+  - We will all work cooperatively to create a cohesive website that the client is satisfied with
 
 
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
+  - Pushing no later than the morning of the due date for each milestone.
+  - Let each other know when are working on the project through our Facebook groupchat
+  - Respond within 24 hours to each message
 
 
 
