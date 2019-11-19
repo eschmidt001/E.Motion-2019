@@ -8,7 +8,8 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Client Description (Milestone 1)
 > Tell us about your client. Who is your client? What kind of website do they want? What are their key goals?
 
-
+ - The client: E.Motion.
+ - E.Motion is a k-pop dance group at Cornell. Formed in 2013, E.Motion has performed at numerous events across campus, filmed dance covers for youTube and won international cover contests. They want a website that is cohesive by providing a location where all of their information, events, and covers are in one place. Their key goals include sharing the love for dance with the community.
 
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** Tell us how you plan to update the site in a significant way that meets the Project 4 requirements.
 
@@ -16,9 +17,13 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Site's Purpose (Milestone 1)
 > Tell us the purpose of the website and what it is all about.
 
+The purpose of the website is to cohesively provide information about what E.Motion is and what they do with the content being covers, events, how to join, and etc.
+
 
 ## Client Meeting Notes (Milestone 1)
 > Include your notes/minutes from the client meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting.
+
+![](meetingnotes.jpg)
 
 
 ## Client Needs and Wants (Milestone 1)
