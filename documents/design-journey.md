@@ -43,26 +43,57 @@ Need/Want: ...
 ## User(s) (Milestone 1)
 > Tell us about the users (target audience) for this website.
 
+Because the site would also include ticket ordering form, our audience not only includes Cornell students interested in joining E.Motion but also includes people interesting in attending a ticket from E.Motion. Considering majority of the people ordered tickets and went to E.Motion events are Cornell students and staffs, our users would be Cornell students and staffs interested in Kpop.
 
 
 ## Discovering Users' Needs (Milestone 1)
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
+![](user_needs.jpg)
 
 ## Users' Needs (Milestone 1)
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
 > **Note:** These are probably *not* the needs of your client.
 
-Need/Want: [Brief Title]
+Need/Want: Information about each dance
 - **Needs and Wants** [What do the users need and want?]
-  - TODO
-- **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - TODO
-- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
-  - TODO
+  - The user wants to have information (e.g. name, dancer, etc) about the dance.
+- **Design Ideas and Choices**
+  - Would include the information along with the screenshots in the gallery.
+- **Rationale & Additional Notes**
+  - When designing for past event part of the event page, we would include detailed information of the dance next to the screenshots.
 
-Need/Want: ...
+Need/Want: Include timeline for the whole semester
+- **Needs and Wants**
+  - The user would like to have a calendar of when each workshop and show is.
+- **Design Ideas and Choices**
+  - Include the timeline in the events page.
+- **Rationale & Additional Notes**
+  - However, as E.Motion finished majority of their events for this semester and is still working on their schedule for next semester, this design is currently not doable.
 
+Need/Want: Form
+- **Needs and Wants**
+  - Want E.Motion to use the same URL for ticket ordering instead of using different Google form each time.
+- **Design Ideas and Choices**
+  - Include ticket ordering form for the latest event on the top of the event page.
+- **Rationale & Additional Notes**
+  - We would include the ticket ordering form for the latest event on the top of the event page. The page would be changed before each new event.
+
+Need/Want: Email subscribing
+- **Needs and Wants**
+  - Want E.Motion to have monthly newsletter and update them with the newest events for the month.
+- **Design Ideas and Choices**
+  - Design a subscription form on the about page.
+- **Rationale & Additional Notes**
+  - E.Motion does not have its own monthly newsletter. This plan is currently not doable.
+
+Need/Want: Group intro
+- **Needs and Wants**
+  - User want to know more about members of E.Motion.
+- **Design Ideas and Choices**
+  - A separate webpage for E-board.
+- **Rationale & Additional Notes**
+  - Because E.Motion has many members and members change a lot on semester bases. Proving detailed information about the E-board can give the users a rough idea about the club.
 
 ## User Testing Plan (Milestone 1)
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!
