@@ -182,9 +182,51 @@ Our overall theme is clean but lively. We have a white background, simple and sl
 ### User 1 - **Desktop** (Milestone 1)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: Order 2 tickets for the next upcoming show.
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectation?**
+  - TODO
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - TODO
+- **Your reflections about the user’s performance to the task**
+  - TODO
+- **Re-design choices**
+  - TODO
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
+
+Task: Find what emotion danced in the past.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectation?**
+  - TODO
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - TODO
+- **Your reflections about the user’s performance to the task**
+  - TODO
+- **Re-design choices**
+  - TODO
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
+
+Task: Find the president of emotion.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectation?**
+  - TODO
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - TODO
+- **Your reflections about the user’s performance to the task**
+  - TODO
+- **Re-design choices**
+  - TODO
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
+
+Task: Apply to join emotion.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
   - TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
@@ -202,31 +244,75 @@ Task: [TODO: copy task here]
 ### User 2 - Testing Notes (Milestone 1)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](user2test.jpg)
 
 ### User 2 (Milestone 1)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
+User 2 is a sophomore in the College of Arts and Science at Cornell.  He plays drums and the saxophone, and enjoys campus shows and concerts.  
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
+Yes
 
 ### User 2 - **Mobile** (Milestone 1)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: Order 2 tickets for the next upcoming show.
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user first attempted clicking the E.motion logo several times before pressing the correct button for navigation.  They navigated to the events page and correctly filled out the form there to order tickets.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user was confused about how to access the site navigation
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - This was concerning because accessing the navigation is vital to the site's function
 - **Re-design choices**
-  - TODO
+  - Be sure to make the logo and the site navigation visually distinct.
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
+
+Task: Find what emotion danced in the past.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: mobile
+- **How did the user do? Did they meet your expectation?**
+  - The user was already on the Events page, so he scrolled down to view past dance events.  
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - There was no particular issue here.
+- **Your reflections about the user’s performance to the task**
+  - The cardsort for putting past events on that page with upcoming seemed good.
+- **Re-design choices**
+  - N/A
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
+
+Task: Find the president of emotion.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: mobile
+- **How did the user do? Did they meet your expectation?**
+  - The user navigated to the E-Board page and the president was there.  
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - He said "Oh, I know where to find that" and was swift.  
+- **Your reflections about the user’s performance to the task**
+  - It was an easy task.
+- **Re-design choices**
+  - N/A
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
+
+Task: Apply to join emotion.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: mobile
+- **How did the user do? Did they meet your expectation?**
+  - The user navigated to the apply page.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - The user said "oh, sad" upon seeing the message on the page that application were not open.
+- **Your reflections about the user’s performance to the task**
+  - It was dismaying to see the user sad.  
+- **Re-design choices**
+  - It might do some good to, upon meeting with the client again, ask if they want more messages on that page with specific dates for recruitment or with opportunities for engagement. 
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
@@ -241,12 +327,14 @@ Task: [TODO: copy task here]
 ![](event.jpg)
 ![](eboard.jpg)
 ![](apply.jpg)
+![](mobileForm1.jpg)
 
 **Mobile Design:**
 ![](m-index.jpg)
 ![](m-event.jpg)
 ![](m-eboard.jpg)
 ![](m-apply.jpg)
+![](desktopForm1.jpg)
 
 ## Additional Comments (Milestone 1)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
