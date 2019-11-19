@@ -119,11 +119,8 @@ Need/Want: ...
 ![](mobilesketch.jpg)
 
 We card sorted four times with the pages of about, events, team, and apply in mind. Our second card sorting included the quarter card and information about their upcoming showcase. However, we thought that it would be better if that was grouped into the events page because that reflects more of the page and not in the about page.
-=======
-We card sorted four times with the pages of about, events, team, and apply in mind. Our second card sorting included the quarter card and information about their upcoming showcase. However, we thought that it would be better if that was grouped into the events page because that reflects more of the page and not in the about page.
 
 Our overall theme is clean but lively. We have a white background, simple and sleek with a black logo. We will have medium sized fonts so the pictures will speak for themselves. In terms of clean, our background colors and primary black colors will emphasize this. For our liveliness, we will incorporate a lot of images to show descriptions and the actual works of Emotion.
->>>>>>> 4cf28bb28eacca449a52fe7e88f6b8d4ba219497
 
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
