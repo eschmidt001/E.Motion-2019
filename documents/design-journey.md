@@ -29,15 +29,35 @@ The purpose of the website is to cohesively provide information about what E.Mot
 ## Client Needs and Wants (Milestone 1)
 > Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.
 
-Needs/Wants: [Brief Title]
+Needs/Wants: About Page
 - **Needs and Wants** [What does your client need and want?]
-  - TODO
+  - They want to increase a more "cohesive" image for their group and "information about them," as stated in the notes. The perfect place to do this is would be on a website that explains who they are in one page.
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - TODO
+  - We plan to make an "about page" with a wide photo featuring their entire team. We will also make a "who we are" and "mission and values" section to further explain their history and why they are passionate about dance.
 - **Memo** [Justify your decisions; additional notes.]
   - TODO
 
-Need/Want: ...
+Need/Want: Events Page
+- **Needs and Wants** [What does your client need and want?]
+  - On the same theme of cohesiveness, they also want a place where people can find all their performances and events.
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+  - We will create an events page that features their upcoming event(s) on the top and past events as they scroll down. This also includs any visuals such as quartercards, photos from past events, etc.
+- **Memo** [Justify your decisions; additional notes.]
+  - TODO
+Need/Want: Eboard Page
+- **Needs and Wants** [What does your client need and want?]
+  - In other to spread more information about the club, they want a team page as well to display featured and dedicated members
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+  - We will meet these needs by designing an "eboard" page featuring the members on their executive board team. This will include their names and short descriptions of who they are. We will use flex box to have these individual profiles line up in rows of three or four.
+- **Memo** [Justify your decisions; additional notes.]
+  - TODO
+Need/Want: Apply Page
+- **Needs and Wants** [What does your client need and want?]
+  - Our client also wants a "how to join" page to make that process easily accessible for others that are interested in their team.
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+  - We will meet the needs by creating a final page as an "apply" page. This will allow students to understand the process of joining and when the next applications will come out. Currently, their applications are not opened so there will be a big sign explaining "check back during Spring 2020 for more information"
+- **Memo** [Justify your decisions; additional notes.]
+  - TODO
 
 
 ## User(s) (Milestone 1)
@@ -312,7 +332,7 @@ Task: Apply to join emotion.
 - **Your reflections about the user’s performance to the task**
   - It was dismaying to see the user sad.  
 - **Re-design choices**
-  - It might do some good to, upon meeting with the client again, ask if they want more messages on that page with specific dates for recruitment or with opportunities for engagement. 
+  - It might do some good to, upon meeting with the client again, ask if they want more messages on that page with specific dates for recruitment or with opportunities for engagement.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
