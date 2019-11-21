@@ -188,45 +188,32 @@ Our overall theme is clean but lively. We have a white background, simple and sl
 ### User 1 - Testing Notes (Milestone 1)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-
+![](user1test.jpg)
 ### User 1 (Milestone 1)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
+User 2 is a senior CS major in the Engineering college at Cornell.  He enjoys music and arts-oriented shows, specially percussion and a-cappella shows.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
+Yes.
 
 ### User 1 - **Desktop** (Milestone 1)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
-
-Task: Order 2 tickets for the next upcoming show.
-- **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop
-- **How did the user do? Did they meet your expectation?**
-  - TODO
-- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
-- **Your reflections about the user’s performance to the task**
-  - TODO
-- **Re-design choices**
-  - TODO
-- **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
 
 Task: Find what emotion danced in the past.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user clicked the "about" link, which left them on the same page, then tried clicking the logo, then clicked the events link.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user about it difficult to identify the about page as the home.  
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - I think this issue could be resolved by either renaming the "about" link to "home" or by having the actual website be clear in this. The paper draft was not entirely explicit and the user seemed distracted at the time of the test.  
 - **Re-design choices**
-  - TODO
+  - N/A
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
@@ -234,27 +221,42 @@ Task: Find the president of emotion.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user tried to click "about", then clicked the link to the Eboard.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - none.  The user swiftly found the correct page.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - It was satisfactory.
 - **Re-design choices**
-  - TODO
+  - N/A
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
+
+Task: Order 2 tickets for the next upcoming show.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectation?**
+  - The user clicked "events", filled in the form correctly, ordered, and then did it again.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - The user calmly did the task and found it easy.
+- **Your reflections about the user’s performance to the task**
+  - The user had to submit the form twice, which is not optimal to the function
+- **Re-design choices**
+  - Add a "number of tickets" field to the form.
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
+
 
 Task: Apply to join emotion.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user pressed the "apply" link.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - none; the user quickly accepted that he could not apply at this time
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - The user didn't seem particularly interested in joining, which is valid, because he is a senior with a very limited time left at Cornell.
 - **Re-design choices**
-  - TODO
+  - N/A.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
