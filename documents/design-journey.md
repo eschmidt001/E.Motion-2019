@@ -168,6 +168,8 @@ Need/Want: Group intro
 ![](mobilenavigation.jpg)
 ![](desktopsketch.jpg)
 ![](mobilesketch.jpg)
+![](mobileForm1.jpg)
+![](desktopForm1.jpg)
 
 We card sorted four times with the pages of about, events, team, and apply in mind. Our second card sorting included the quarter card and information about their upcoming showcase. However, we thought that it would be better if that was grouped into the events page because that reflects more of the page and not in the about page.
 
@@ -349,14 +351,14 @@ Task: Apply to join emotion.
 ![](event.jpg)
 ![](eboard.jpg)
 ![](apply.jpg)
-![](mobileForm1.jpg)
+![](mobileForm2.jpg)
 
 **Mobile Design:**
 ![](m-index.jpg)
 ![](m-event.jpg)
 ![](m-eboard.jpg)
 ![](m-apply.jpg)
-![](desktopForm1.jpg)
+![](desktopForm2.jpg)
 
 ## Additional Comments (Milestone 1)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
