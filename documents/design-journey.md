@@ -63,7 +63,7 @@ Need/Want: Apply Page
 ## User(s) (Milestone 1)
 > Tell us about the users (target audience) for this website.
 
-Because the site would also include ticket ordering form, our audience not only includes Cornell students interested in joining E.Motion but also includes people interesting in attending a ticket from E.Motion. Considering majority of the people ordered tickets and went to E.Motion events are Cornell students and staffs, our users would be Cornell students and staffs interested in Kpop.
+Our target audience for this this site would be Cornell Students interested in learning more about E.Motion. This includes students interested in learning more about the organization in general, applying, or attending a concert. Because the site would also include ticket ordering form, our audience not only includes Cornell students interested in joining E.Motion but also includes people interesting in attending a ticket from E.Motion. Considering majority of the people ordered tickets and went to E.Motion events are Cornell students and staffs, our users would be Cornell students and staffs interested in Kpop.
 
 
 ## Discovering Users' Needs (Milestone 1)
