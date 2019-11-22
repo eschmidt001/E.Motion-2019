@@ -171,9 +171,11 @@ Need/Want: Group intro
 ![](mobileForm1.jpg)
 ![](desktopForm1.jpg)
 
-We card sorted four times with the pages of about, events, team, and apply in mind. Our second card sorting included the quarter card and information about their upcoming showcase. However, we thought that it would be better if that was grouped into the events page because that reflects more of the page and not in the about page.
+Our first card sort shows all the content our client would like scrambled. Our second card sorting included the quarter card and information about their upcoming showcase. However, we thought that it would be better if that was grouped into the events page because that reflects more of the page and not in the about page. Our third card sort reflects these changes. We card sorted three times which resulted in the creation of navigation pages about, events, eboard, and apply
 
-Our overall theme is clean but lively. We have a white background, simple and sleek with a black logo. We will have medium sized fonts so the pictures will speak for themselves. In terms of clean, our background colors and primary black colors will emphasize this. For our liveliness, we will incorporate a lot of images to show descriptions and the actual works of Emotion.
+Our thought process behind our design came directly from the needs and wants of our client. The about page features a team photo, "who we are", and E.Motion's mission and values. This reflects the basics of who their group is for users who would like to learn more about this dance group. The events page has their upcoming events and past events with credits, quartercards, and other corresponding images. This is helpful for users who are interested in finding consolidated information about their performances in the future but also what they've done in the past. The interactive ticket form allows users to directly purchase this ticket from the website. This fits with the client's wants of having all the information needed in one place. The eboard page features the key eboard members, their name, majors, and other basic information. Finally, our apply page shows basic information about the application process for Spring 2020.
+
+Our overall theme is clean but lively. We have a white background, simple and sleek with a black logo. We will have medium sized fonts so the pictures will speak for themselves. In terms of clean, our background colors and primary black colors will emphasize this. For our liveliness, we will incorporate a lot of images to show descriptions and the actual works of Emotion. Our theme fits with our user's needs because they are Cornell students looking to find more information about E.Motion. They will appreciate a clean theme that is clear to follow but also lively photos that shows the actual work of E.Motion. The theme fits with our client's needs because their main requirement is to show centralized information about their group. Our client's aesthetic is a clean image, shown with their logo and quick dance moves. That will be reflected in the theme of the website. Our client is also a dance group so they would appreciate a lively theme that shows how interactive their dances are.
 
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
@@ -205,7 +207,7 @@ Yes.
 ### User 1 - **Desktop** (Milestone 1)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: Find what emotion danced in the past.
+Task: Find the location of where E.Motion performed during the Spring 2019 concert.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
@@ -219,7 +221,7 @@ Task: Find what emotion danced in the past.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-Task: Find the president of emotion.
+Task: You are an Cornell student interested in learning more about the team behind E.Motion. Find the current president's and and major of E.Motion.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
@@ -233,7 +235,7 @@ Task: Find the president of emotion.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-Task: Order 2 tickets for the next upcoming show.
+Task: Order 2 tickets for the next upcoming show next semester using the email cornell_student@cornell.edu
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
@@ -248,7 +250,7 @@ Task: Order 2 tickets for the next upcoming show.
   - TODO: Justify your decisions; additional notes.
 
 
-Task: Apply to join emotion.
+Task: Learn how to apply to join E.Motion for Spring 2020.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
