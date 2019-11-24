@@ -2,7 +2,22 @@
 border{
   color: red;
 }
-/* navigation*/
 
+/* navigation*/
+nav ul{
+  display: flex;
+  justify-content: right;
+}
+
+/*eboard*/
+
+name+postitiondivTODO{
+  justify-content: center;
+}
+
+/*form*/
+.hidden{
+  display: none;
+}
 
 /* mobile*/
