@@ -23,7 +23,12 @@ h2 {
   font-size: 30px;
 }
 
+
 /* navigation*/
+nav{
+  display: inline;
+}
+
 nav ul{
   display: flex;
   justify-content: right;
@@ -52,10 +57,6 @@ nav a{
 
 .eboardindividual {
   margin: 15px;
-}
-
-name+postitiondivTODO{
-  justify-content: center;
 }
 
 /*events*/

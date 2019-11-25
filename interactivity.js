@@ -1,7 +1,18 @@
-// eboard bios
+$(document).ready(function(){
+  // eboard bios
 
-//desktop nav bar shimmer
+  //desktop nav bar shimmer
 
-// mobile nav bar
+  // mobile nav bar
 
-//form
+  //form
+  $('#preorderForm').on("submit", function() {
+    var formValid = true;
+    if($("#name").prop("validity").valid ) {
+      $("#nameError").addClass("hidden");
+    } else {
+      $("#nameError").removeClass("hidden");
+      formValid = false;
+    }
+  })
+})
