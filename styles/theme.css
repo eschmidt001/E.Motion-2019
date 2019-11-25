@@ -47,7 +47,8 @@ nav a{
 /*eboard*/
 .eboard {
   display: flex;
-  flex-direction: column
+  flex-direction: column;
+  width: 75%;
 }
 
 .eboardrow {
@@ -66,17 +67,19 @@ nav a{
 }
 
 .poster{
-  flex-grow: 1;
+  width: 50%;
+  margin: 5px;
 }
 
 .poster img{
   display: block;
   align-self: center;
   margin: 10px auto;
+  width: 100%;
 }
 
 .info, #form{
-  flex-grow: 1;
+  width: 50%;
 }
 
 #upcoming{
@@ -99,9 +102,8 @@ input, select, textarea{
 }
 
 .submit{
-  position: absolute;
-  left: 800px;
   width: auto;
+  float: right;
 }
 
 .hidden{
@@ -147,6 +149,7 @@ input, select, textarea{
     border: solid maroon;
     text-align: center;
   }
+
   /*eboard*/
   .eboardrow{
     display: flex;
@@ -155,5 +158,28 @@ input, select, textarea{
 
   .eboardrow{
     justify-content: center;
+  }
+
+  /*events*/
+  #upcoming{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .past{
+    display: flex;
+    flex-direction: column;
+  }
+  .poster{
+    width: 100%;
+  }
+
+  .poster img{
+    justify-content: space-around;
+  }
+
+  .info, #form{
+    width: 100%;
   }
 }
