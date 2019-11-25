@@ -1,6 +1,29 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
+  src: url("../fonts/Montserrat/Montserrat-Light.ttf");
+}
+
+
 /*overall theme*/
 border{
   color: red;
+}
+
+
+h2, h3 {
+  font-family: Montserrat, sans-serif;
+  font-weight: lighter;
+  font-size: 22px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+ul li {
+  font-family: Montserrat, sans-serif;
+  font-weight: lighter;
 }
 
 /* navigation*/
@@ -10,6 +33,19 @@ nav ul{
 }
 
 /*eboard*/
+.eboard {
+  display: flex;
+  flex-direction: column
+}
+
+.eboardrow {
+  display: flex;
+  flex-direction: row;
+}
+
+.eboardindividual {
+  margin: 15px;
+}
 
 name+postitiondivTODO{
   justify-content: center;
