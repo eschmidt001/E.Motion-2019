@@ -412,6 +412,35 @@ when DOM is loaded:
 
     send form to server if formvalid is true
 ```
+Eboard Bios
+```
+when DOM is loaded:
+    hide bio
+  when eboardindividual is clicked
+    show bio
+```
+Mobile Navigation
+```
+when DOM is loaded:
+  if width less than 800px (mobile)
+    hide navigation
+
+    if navigation is hidden
+      when navigation button clicked
+        show navigation
+    else if navigation button no hidden
+      when navigation button clicked
+        hide navigation
+```
+Desktop Navigation
+```
+when DOM is loaded:
+  if width 800px or more (desktop)
+    hide shimmer effect
+
+    when mouse hovers over navigation link
+      show shimmer effect
+```
 ## Additional Comments (Milestone 2)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
 
