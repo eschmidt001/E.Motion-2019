@@ -48,7 +48,6 @@ nav a{
 .eboard {
   display: flex;
   flex-direction: column;
-  width: 75%;
 }
 
 .eboardrow {
@@ -58,6 +57,10 @@ nav a{
 
 .eboardindividual {
   margin: 15px;
+}
+
+.eboardindividual img{
+  width: 100%;
 }
 
 /*events*/
