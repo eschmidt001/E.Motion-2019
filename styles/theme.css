@@ -27,6 +27,16 @@ h2 {
 nav ul{
   display: flex;
   justify-content: right;
+  list-style-type: none;
+}
+
+nav ul li {
+  padding: 5px;
+  margin: 5px;
+}
+
+nav a{
+  text-decoration: none;
 }
 
 /*eboard*/
@@ -125,3 +135,24 @@ input, select, textarea{
 
 
 /* mobile*/
+@media (max-width: 800px){
+  /*nav*/
+  nav ul{
+    display: flex;
+    flex-direction: column;
+  }
+
+  nav ul li{
+    border: solid maroon;
+    text-align: center;
+  }
+  /*eboard*/
+  .eboardrow{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .eboardrow{
+    justify-content: center;
+  }
+}
