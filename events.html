@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="styles/theme.css">
+  <script src="scripts/jquery-3.4.1.min.js" type="text/javascript"></script>
+  <script src="scripts/validation.js" type="text/javascript"></script>
+  <title> E.Motion </title>
+</head>
+
+<body>
+  <header>
+    <div id="headerrow">
+      <div id="logo">
+        <!--Source: E.Motion-->
+        <img src="images/logo.jpg" alt="E.Motion Logo">
+        Source: <cite>E.Motion</cite>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="index.html">About</a></li>
+          <li><a href="eboard.html">E-Board</a></li>
+          <li><a href="events.html">Events</a></li>
+          <li><a href="apply.html">Apply</a></li>
+        </ul>
+      </nav>
+    </div>
+    <h1>E.Motion Events</h1>
+  </header>
+
+  <hr/>
+
+  <div id="upcoming">
+    <div class="left">
+      <!--Source: E.Motion-->
+      <img src="images/event.jpg" alt="Weki Meki <Crush> Dance Workshop Poster">
+      Source: <cite>E.Motion</cite>
+    </div>
+
+    <div id="form">
+      <h2>Order Tickets</h2>
+
+      <form method="post" id="preoderForm" action="https://www.cs.cornell.edu/courses/cs1300/2019fa/submit.php" novalidate>
+
+        <div>
+          <label for="name">Name:</label>
+          <input id="name" name="name" placeholder="Your Name" pattern="[a-zA-Z\s]+" required/>
+          <span class="errorContainer hidden" id="nameError">
+            Name is not valid. A valid name should only include letters and space.
+          </span>
+        </div>
+
+        <div>
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" placeholder="Your Email" required/>
+          <span class="errorContainer hidden" id="emailError">
+            Email is not valid.
+          </span>
+        </div>
+
+        <div>
+          <label for="numticket">Number of Tickets:</label>
+          <input type="number" id="numticket" name="numticket" min="1" required/>
+          <span class="errorContainer hidden" id="numError">
+            You must enter a positive number.
+          </span>
+        </div>
+
+        <div>
+          <label for="location">Pickup Location:</label>
+          <select id="location" name="location">
+            <option value="">Please select a location</option>
+            <option value="north" id="north">North Campus - RPCC</option>
+            <option value="west" id="west">West Campus - Becker House</option>
+            <option value="central" id="central">Central Campus - Willard Straight Hall</option>
+          </select>
+          <span class="errorContainer hidden" id="locationError">
+            You must pick a location.
+          </span>
+        </div>
+
+        <div>
+          <label for="comment">Comments:</label>
+          <textarea id="comment" name="comment" rows="5" cols="30"></textarea>
+        </div>
+
+        <div>
+          <input type="submit" class="submit" value="Place Order">
+        </div>
+
+      </form>
+    </div>
+  </div>
+
+  <div class="past">
+    <!--Source: E.Motion-->
+    <img src="images/doubleknot.jpg" alt="Double Knot Poster">
+    Source: <cite>E.Motion</cite>
+
+    <div class="info">
+      <h3> Double Knot - Stray Kids</h3>
+      <p>Choreo Leader: Tiamen</p>
+      <p>Dancers:</p>
+      <ul>
+        <li>방찬 (Bangchan) - Michelle Wang</li>
+        <li>우진 (Woojin) - Raquel Castro</li>
+        <li>리노 (Lee Know) - Maya Hardi</li>
+        <li>창빈 (Changbin) - Grace Zhang</li>
+        <li>현진 (Hyunjin) - Tia Monte</li>
+        <li>한 (Han) - Minyoung Hwang</li>
+        <li>필릭스 (Felix) - Nina Johnson</li>
+        <li>승민 (Seungmin) - Mingxin Gu</li>
+        <li>아이엔 (I.N.) - Mindy Li</li>
+      </ul>
+      <p>Filmed by Cathy Oh</p>
+      <p>Edited by Han Chao Li</p>
+    </div>
+  </div>
+
+  <div class="past">
+    <!--Source: E.Motion-->
+    <img src="images/lit.jpg" alt="Oneus Poster">
+    Source: <cite>E.Motion</cite>
+
+    <div class="info">
+      <h3>Lit - Oneus</h3>
+      <p>Choreo Leader: Michelle Wang</p>
+      <p>Dancers:</p>
+      <ul>
+        <li>레이븐 (Ravn) - Carmen Poon</li>
+        <li>서호 (Seoho) - Stephanie Chow</li>
+        <li>이도 (Leedo) - Mindy Li</li>
+        <li>건희 (Keonhee) - Jane Baek</li>
+        <li>환웅 (Hwanwoong) - Michelle Wang</li>
+        <li>시온 (Xion) - Grace Zhang</li>
+      </ul>
+      <p>Filmed by Sungmin Kim</p>
+      <p>Edited by Stephanie Chow</p>
+    </div>
+  </div>
+
+  <div class="past">
+    <!--Source: E.Motion-->
+    <img src="images/feelspecial.jpg" alt="Feel Speical Poster">
+    Source: <cite>E.Motion</cite>
+
+    <div class="info">
+      <h3>Feel Speical - Twice</h3>
+      <p>Choreo Leader: Sungmin Kim</p>
+      <p>Dancers:</p>
+      <ul>
+        <li>나연 (Nayeon) - Sungmin Kim</li>
+        <li>정연 (Jeongyeun) - Stephanie Chow</li>
+        <li>모모 (Momo) - Michelle Wang</li>
+        <li>사나 (Sana) - Elaine Wu</li>
+        <li>지효 (Jihyo) - Jaen Baek</li>
+        <li>다현 (Dahyun) - Tia Monte</li>
+        <li>채영 (Chaeyoung) - Shuah Jang</li>
+        <li>쯔위 (Tzuyu) - Lily Lin</li>
+      </ul>
+      <p>Filmed by Cathy Oh</p>
+      <p>Edited by Sungmin Kim</p>
+    </div>
+  </div>
+
+</body>
+</html>
