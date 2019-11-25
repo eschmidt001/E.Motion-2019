@@ -10,20 +10,17 @@ border{
   color: red;
 }
 
-
-h2, h3 {
+html{
   font-family: Montserrat, sans-serif;
   font-weight: lighter;
-  font-size: 22px;
 }
 
-h2 {
+h1 {
   font-size: 40px;
 }
 
-ul li {
-  font-family: Montserrat, sans-serif;
-  font-weight: lighter;
+h2 {
+  font-size: 30px;
 }
 
 /* navigation*/
@@ -51,9 +48,61 @@ name+postitiondivTODO{
   justify-content: center;
 }
 
+/*events*/
+#upcoming, .past{
+  display: flex;
+  flex-direction: row;
+}
+
+.poster{
+  flex-grow: 1;
+}
+
+.poster img{
+  display: block;
+  align-self: center;
+  margin: 10px auto;
+}
+
+.info, #form{
+  flex-grow: 1;
+}
+
+#upcoming{
+  margin-bottom: 30px;
+}
+
 /*form*/
+label{
+  float: left;
+  flex-direction: row;
+  width: 100px;
+  padding-right: 5px;
+  text-align: right;
+}
+
+input, select, textarea{
+  padding-right: 5px;
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+.submit{
+  position: absolute;
+  left: 800px;
+  width: auto;
+}
+
 .hidden{
   display: none;
+}
+
+.errorContainer{
+  display: inline-block;
+  color: red;
+  border-left: 1px red solid;
+  padding-left: 0.5em;
+  text-align: center;
 }
 
 /*index*/
