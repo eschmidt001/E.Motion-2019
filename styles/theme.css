@@ -17,11 +17,13 @@ html{
 
 h1 {
   font-size: 40px;
+  text-align: center;
 }
 
 h2 {
   font-size: 30px;
 }
+
 
 
 
@@ -51,6 +53,11 @@ header {
 
 .heading {
   padding: 20px;
+  width: 50%;
+}
+
+div {
+  padding: 5px;
 }
 
 /*eboard*/
