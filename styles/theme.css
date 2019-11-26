@@ -24,24 +24,33 @@ h2 {
 }
 
 
+
 /* navigation*/
-nav{
-  display: inline;
-}
-
-nav ul{
-  display: flex;
-  justify-content: right;
-  list-style-type: none;
-}
-
 nav ul li {
-  padding: 5px;
-  margin: 5px;
+  display: inline-block;
+  padding: 10px;
+  font-family: Montserrat;
+  font-weight:lighter;
 }
 
-nav a{
+nav {
+  text-align: right;
+}
+
+nav ul li a{
+  font-size: 22px;
   text-decoration: none;
+  text-align: right;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.heading {
+  padding: 20px;
 }
 
 /*eboard*/
