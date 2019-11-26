@@ -1,23 +1,140 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
+  src: url("../fonts/Montserrat/Montserrat-Light.ttf");
+}
+
+
 /*overall theme*/
 border{
   color: red;
 }
 
+html{
+  font-family: Montserrat, sans-serif;
+  font-weight: lighter;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+
+
+
 /* navigation*/
-nav ul{
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+  font-family: Montserrat;
+  font-weight:lighter;
+}
+
+nav {
+  text-align: right;
+}
+
+nav ul li a{
+  font-size: 22px;
+  text-decoration: none;
+  text-align: right;
+}
+
+header {
   display: flex;
-  justify-content: right;
+  flex-direction: row;
+  width: 100%;
+}
+
+.heading {
+  padding: 20px;
+  width: 50%;
+}
+
+div {
+  padding: 5px;
 }
 
 /*eboard*/
+.eboard {
+  display: flex;
+  flex-direction: column;
+}
 
-name+postitiondivTODO{
-  justify-content: center;
+.eboardrow {
+  display: flex;
+  flex-direction: row;
+}
+
+.eboardindividual {
+  margin: 15px;
+}
+
+.eboardindividual img{
+  width: 100%;
+}
+
+/*events*/
+#upcoming, .past{
+  display: flex;
+  flex-direction: row;
+}
+
+.poster{
+  width: 50%;
+  margin: 5px;
+}
+
+.poster img{
+  display: block;
+  align-self: center;
+  margin: 10px auto;
+  width: 100%;
+}
+
+.info, #form{
+  width: 50%;
+}
+
+#upcoming{
+  margin-bottom: 30px;
 }
 
 /*form*/
+label{
+  float: left;
+  flex-direction: row;
+  width: 100px;
+  padding-right: 5px;
+  text-align: right;
+}
+
+input, select, textarea{
+  padding-right: 5px;
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+.submit{
+  width: auto;
+  float: right;
+}
+
 .hidden{
   display: none;
+}
+
+.errorContainer{
+  display: inline-block;
+  color: red;
+  border-left: 1px red solid;
+  padding-left: 0.5em;
+  text-align: center;
 }
 
 /*index*/
@@ -40,3 +157,48 @@ name+postitiondivTODO{
 
 
 /* mobile*/
+@media (max-width: 800px){
+  /*nav*/
+  nav ul{
+    display: flex;
+    flex-direction: column;
+  }
+
+  nav ul li{
+    border: solid maroon;
+    text-align: center;
+  }
+
+  /*eboard*/
+  .eboardrow{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .eboardrow{
+    justify-content: center;
+  }
+
+  /*events*/
+  #upcoming{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .past{
+    display: flex;
+    flex-direction: column;
+  }
+  .poster{
+    width: 100%;
+  }
+
+  .poster img{
+    justify-content: space-around;
+  }
+
+  .info, #form{
+    width: 100%;
+  }
+}

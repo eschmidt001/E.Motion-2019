@@ -63,7 +63,7 @@ Need/Want: Apply Page
 ## User(s) (Milestone 1)
 > Tell us about the users (target audience) for this website.
 
-Our target audience for this this site would be Cornell Students interested in learning more about E.Motion. This includes students interested in learning more about the organization in general, applying, or attending a concert. Because the site would also include ticket ordering form, our audience not only includes Cornell students interested in joining E.Motion but also includes people interesting in attending a ticket from E.Motion. Considering majority of the people ordered tickets and went to E.Motion events are Cornell students and staffs, our users would be Cornell students and staffs interested in Kpop.
+Because the site would also include ticket ordering form, our audience not only includes Cornell students interested in joining E.Motion but also includes people interesting in attending a ticket from E.Motion. Considering majority of the people ordered tickets and went to E.Motion events are Cornell students and staffs, our users would be Cornell students and staffs interested in Kpop.
 
 
 ## Discovering Users' Needs (Milestone 1)
@@ -168,14 +168,10 @@ Need/Want: Group intro
 ![](mobilenavigation.jpg)
 ![](desktopsketch.jpg)
 ![](mobilesketch.jpg)
-![](mobileForm1.jpg)
-![](desktopForm1.jpg)
 
-Our first card sort shows all the content our client would like scrambled. Our second card sorting included the quarter card and information about their upcoming showcase. However, we thought that it would be better if that was grouped into the events page because that reflects more of the page and not in the about page. Our third card sort reflects these changes. We card sorted three times which resulted in the creation of navigation pages about, events, eboard, and apply
+We card sorted four times with the pages of about, events, team, and apply in mind. Our second card sorting included the quarter card and information about their upcoming showcase. However, we thought that it would be better if that was grouped into the events page because that reflects more of the page and not in the about page.
 
-Our thought process behind our design came directly from the needs and wants of our client. The about page features a team photo, "who we are", and E.Motion's mission and values. This reflects the basics of who their group is for users who would like to learn more about this dance group. The events page has their upcoming events and past events with credits, quartercards, and other corresponding images. This is helpful for users who are interested in finding consolidated information about their performances in the future but also what they've done in the past. The interactive ticket form allows users to directly purchase this ticket from the website. This fits with the client's wants of having all the information needed in one place. The eboard page features the key eboard members, their name, majors, and other basic information. Finally, our apply page shows basic information about the application process for Spring 2020.
-
-Our overall theme is clean but lively. We have a white background, simple and sleek with a black logo. We will have medium sized fonts so the pictures will speak for themselves. In terms of clean, our background colors and primary black colors will emphasize this. For our liveliness, we will incorporate a lot of images to show descriptions and the actual works of Emotion. Our theme fits with our user's needs because they are Cornell students looking to find more information about E.Motion. They will appreciate a clean theme that is clear to follow but also lively photos that shows the actual work of E.Motion. The theme fits with our client's needs because their main requirement is to show centralized information about their group. Our client's aesthetic is a clean image, shown with their logo and quick dance moves. That will be reflected in the theme of the website. Our client is also a dance group so they would appreciate a lively theme that shows how interactive their dances are.
+Our overall theme is clean but lively. We have a white background, simple and sleek with a black logo. We will have medium sized fonts so the pictures will speak for themselves. In terms of clean, our background colors and primary black colors will emphasize this. For our liveliness, we will incorporate a lot of images to show descriptions and the actual works of Emotion.
 
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
@@ -192,75 +188,73 @@ Our overall theme is clean but lively. We have a white background, simple and sl
 ### User 1 - Testing Notes (Milestone 1)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-![](user1test.jpg)
+
 ### User 1 (Milestone 1)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-User 2 is a senior CS major in the Engineering college at Cornell.  He enjoys music and arts-oriented shows, specially percussion and a-cappella shows.
+
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
-Yes.
 
 ### User 1 - **Desktop** (Milestone 1)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: Find the location of where E.Motion performed during the Spring 2019 concert.
+Task: Order 2 tickets for the next upcoming show.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - The user clicked the "about" link, which left them on the same page, then tried clicking the logo, then clicked the events link.
+  - TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - The user about it difficult to identify the about page as the home.  
+  - TODO
 - **Your reflections about the user’s performance to the task**
-  - I think this issue could be resolved by either renaming the "about" link to "home" or by having the actual website be clear in this. The paper draft was not entirely explicit and the user seemed distracted at the time of the test.  
+  - TODO
 - **Re-design choices**
-  - N/A
+  - TODO
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-Task: You are an Cornell student interested in learning more about the team behind E.Motion. Find the current president's and and major of E.Motion.
+Task: Find what emotion danced in the past.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - The user tried to click "about", then clicked the link to the Eboard.
+  - TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - none.  The user swiftly found the correct page.
+  - TODO
 - **Your reflections about the user’s performance to the task**
-  - It was satisfactory.
+  - TODO
 - **Re-design choices**
-  - N/A
+  - TODO
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-Task: Order 2 tickets for the next upcoming show next semester using the email cornell_student@cornell.edu
+Task: Find the president of emotion.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - The user clicked "events", filled in the form correctly, ordered, and then did it again.
+  - TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - The user calmly did the task and found it easy.
+  - TODO
 - **Your reflections about the user’s performance to the task**
-  - The user had to submit the form twice, which is not optimal to the function
+  - TODO
 - **Re-design choices**
-  - Add a "number of tickets" field to the form.
+  - TODO
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-
-Task: Learn how to apply to join E.Motion for Spring 2020.
+Task: Apply to join emotion.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - The user pressed the "apply" link.
+  - TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - none; the user quickly accepted that he could not apply at this time
+  - TODO
 - **Your reflections about the user’s performance to the task**
-  - The user didn't seem particularly interested in joining, which is valid, because he is a senior with a very limited time left at Cornell.
+  - TODO
 - **Re-design choices**
-  - N/A.
+  - TODO
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
@@ -353,14 +347,14 @@ Task: Apply to join emotion.
 ![](event.jpg)
 ![](eboard.jpg)
 ![](apply.jpg)
-![](mobileForm2.jpg)
+![](mobileForm1.jpg)
 
 **Mobile Design:**
 ![](m-index.jpg)
 ![](m-event.jpg)
 ![](m-eboard.jpg)
 ![](m-apply.jpg)
-![](desktopForm2.jpg)
+![](desktopForm1.jpg)
 
 ## Additional Comments (Milestone 1)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
@@ -385,7 +379,68 @@ when DOM is loaded:
     show Monday's soup and Monday's daily special
 
 ```
+Form Interactivity
+```
+when DOM is loaded:
 
+  when form is submitted:
+    formvalid <-- True
+
+    if name meets HTML validation criteria:
+      hide name feedback
+    else
+      show name feedback
+      formvalid <-- False
+
+    if email meets HTML validation criteria:
+      hide email feedback
+    else
+      show email feedback
+      formvalid <-- False
+
+    if tickets meets HTML validation criteria:
+      hide tickets feedback
+    else
+      show tickets feedback
+      formvalid <-- False
+
+    if pickup meets HTML validation criteria:
+      hide pickup feedback
+    else
+      show pickup feedback
+      formvalid <-- False
+
+    send form to server if formvalid is true
+```
+Eboard Bios
+```
+when DOM is loaded:
+    hide bio
+  when eboardindividual is clicked
+    show bio
+```
+Mobile Navigation
+```
+when DOM is loaded:
+  if width less than 800px (mobile)
+    hide navigation
+
+    if navigation is hidden
+      when navigation button clicked
+        show navigation
+    else if navigation button no hidden
+      when navigation button clicked
+        hide navigation
+```
+Desktop Navigation
+```
+when DOM is loaded:
+  if width 800px or more (desktop)
+    hide shimmer effect
+
+    when mouse hovers over navigation link
+      show shimmer effect
+```
 ## Additional Comments (Milestone 2)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
 
