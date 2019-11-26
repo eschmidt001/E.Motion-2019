@@ -1,4 +1,16 @@
 $(document).ready(function(){
+  // comment field display
+  $("#yes").on("input", function(){
+    $(".comment").removeClass("hidden");
+    $("#comment").attr("required", true);
+  })
+
+  $("#no").on("input", function(){
+    $(".comment").addClass("hidden");
+    $("#comment").attr("required", false);
+  })
+
+  //form validation
   $("#preoderForm").on("submit", function(){
     var formValid = true;
 
@@ -17,7 +29,7 @@ $(document).ready(function(){
     }
 
     if($("#numticket").prop("validity").valid){
-      $("numError").addClass("hidden");
+      $("#numError").addClass("hidden");
     }else{
       $("#numError").removeClass("hidden");
       formValid = false;
@@ -27,6 +39,13 @@ $(document).ready(function(){
       $("#locationError").addClass("hidden");
     }else{
       $("#locationError").removeClass("hidden");
+      formValid = false;
+    }
+
+    if($("#comment").prop("validity").valid){
+      $("#commentError").addClass("hidden");
+    }else{
+      $("#commentError").removeClass("hidden");
       formValid = false;
     }
 

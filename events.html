@@ -81,8 +81,17 @@
         </div>
 
         <div>
-          <label for="comment">Comments:</label>
-          <textarea id="comment" name="comment" rows="5" cols="30"></textarea>
+          <label>Comments?:</label>
+          <input type="radio" id="no" name="comm" value="no" checked>
+          <label for="no">No</label>
+          <input type="radio" id="yes" name="comm" value="yes">
+          <label for="yes">Yes</label>
+        </div>
+
+        <div>
+          <label class="comment hidden" for="comment">Enter here:</label>
+          <textarea class="comment hidden" id="comment" name="comment" rows="5" cols="30"></textarea>
+          <span class="errorContainer hidden" id="commentError">Please enter comments.</span>
         </div>
 
         <div>

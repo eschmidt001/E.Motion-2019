@@ -117,6 +117,15 @@ label{
   text-align: right;
 }
 
+#no, #yes{
+  width: auto;
+  padding: 0;
+}
+
+label[for="no"], label[for="yes"]{
+  float: none;
+}
+
 input, select, textarea{
   padding-right: 5px;
   width: 250px;
@@ -128,16 +137,16 @@ input, select, textarea{
   float: right;
 }
 
-.hidden{
-  display: none;
-}
-
 .errorContainer{
   display: inline-block;
   color: red;
   border-left: 1px red solid;
   padding-left: 0.5em;
   text-align: center;
+}
+
+.hidden{
+  display: none;
 }
 
 /*index*/
