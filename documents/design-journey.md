@@ -367,6 +367,7 @@ Task: Apply to join emotion.
 ## Client Feedback (Milestone 2)
 > You have met once with your client a second time to discuss your initial design. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Write a few sentences about the design feedback you received from your client.
 
+![](clientfeedbackm2.jpg)
 
 ## Interactivity Plan (Milestone 2)
 > Write your interactivity pseudocode here.
