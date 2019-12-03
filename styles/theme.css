@@ -46,6 +46,7 @@ nav ul li a{
   font-size: 22px;
   text-decoration: none;
   text-align: right;
+  padding: 10px;
 }
 
 header {
@@ -61,6 +62,16 @@ header {
 
 div {
   padding: 5px;
+}
+
+/*nav hover effects*/
+nav a{
+  transition-property: font-weight;
+}
+
+nav a:hover{
+  font-weight: bold;
+  text-shadow: 1px 1px 2px red;
 }
 
 /*eboard*/
@@ -90,7 +101,7 @@ div {
 
 .poster{
   width: 50%;
-  margin: 5px;
+  margin: 10px;
 }
 
 .poster img{
@@ -102,6 +113,7 @@ div {
 
 .info, #form{
   width: 50%;
+  margin: 20px;
 }
 
 #upcoming{
@@ -109,6 +121,7 @@ div {
 }
 
 /*form*/
+
 label{
   float: left;
   flex-direction: row;
