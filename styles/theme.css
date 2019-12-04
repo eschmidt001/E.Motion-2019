@@ -84,6 +84,7 @@ nav a:hover{
 .eboardrow {
   display: flex;
   flex-direction: row;
+  width: 100%;
 }
 
 .eboardindividual {
@@ -274,6 +275,15 @@ footer a {
   }
 
   /*eboard interactivity*/
+  .eboardindividual:hover .overlay{
+    opacity: 1;
+    display: unset;
+  }
+
+  .eboardindividual:hover img{
+    opacity: 1;
+    display: unset;
+  }
   .eboardindividual .overlay{
     display: none;
   }
