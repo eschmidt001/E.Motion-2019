@@ -95,20 +95,28 @@ nav a:hover{
   width: 100%;
 }
 
+/*bio interactivity*/
 .overlay {
-  position: absolute;
+  /*position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
   height: 100%;
-  width: 100%;
+  width: 100%;*/
   opacity: 0;
+  display: none;
   transition: .5s ease;
 }
 
 .eboardindividual:hover .overlay{
   opacity: 1;
+  display: unset;
+}
+
+.eboardindividual:hover img{
+  opacity: 0;
+  display: none;
 }
 
 .eboardindividual {
@@ -118,13 +126,13 @@ nav a:hover{
 .text {
   color: black;
   font-size: 20px;
-  position: absolute;
+  /*position: absolute;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  text-align: center;
+  text-align: center;*/
 }
 
 /*events*/
@@ -263,6 +271,15 @@ footer a {
 
   .eboardrow{
     justify-content: center;
+  }
+
+  /*eboard interactivity*/
+  .eboardindividual .overlay{
+    display: none;
+  }
+
+  .eboardindividual:focus .overlay{
+    display: unset;
   }
 
   /*events*/
