@@ -271,6 +271,15 @@ h3 {
 .source {
   font-size: 80%;
 }
+
+.indexphotos {
+  width: 100%;
+  text-align: center;
+}
+
+.friendsphoto {
+  display: inline-block;
+}
 /* footer*/
 footer{
   text-align: center;
@@ -344,7 +353,7 @@ footer a {
   .info, #form{
     width: 100%;
   }
-  
+
   /*index*/
   .row {
     display: block;
