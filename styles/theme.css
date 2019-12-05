@@ -28,6 +28,8 @@ h2 {
 /*apply*/
 .apply h1{
   font-weight: bold;
+  background-color: rgba(198, 197, 197, 0.2);
+  padding: 9px;
 }
 
 /* navigation*/
@@ -213,15 +215,18 @@ input, select, textarea{
 
 .centered {
   position: absolute;
-  top: 20%;
+  top: 15%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: black;
   font-family: Montserrat;
   text-transform: uppercase;
-  font-size: 700px;
-  font-weight: bold;
+  font-size: 1200px;
+  font-weight: bolder;
   text-shadow: 0 15px 15px rgba(0,0,0,1);
+  background-color: rgba(255, 255, 255, 0.66);
+  padding-left: 350px;
+  padding-right: 350px;
 }
 
 .about {
@@ -241,8 +246,31 @@ input, select, textarea{
 
 h3 {
   text-align: center;
+  font-weight: bold;
+  font-size: 140%;
 }
 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.values img {
+  display: block;
+  margin: 0 auto;
+}
+
+.mission img {
+  display: block;
+  margin: 0 auto;
+}
+
+.source {
+  font-size: 80%;
+}
 /* footer*/
 footer{
   text-align: center;
@@ -315,5 +343,19 @@ footer a {
 
   .info, #form{
     width: 100%;
+  }
+  
+  /*index*/
+  .row {
+    display: block;
+  }
+
+  .teamphoto img {
+    width: 100%;
+    height: auto;
+  }
+
+  .centered h1 {
+    font-size: 15px;
   }
 }
