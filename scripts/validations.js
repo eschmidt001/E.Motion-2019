@@ -49,6 +49,12 @@ $(document).ready(function(){
       formValid = false;
     }
 
+    var isMobile = window.matchMedia("only screen and (max-width: 760px)").matches;
+
+    $("#navitem").on("click", function () {
+      $("#navdropdown").toggleClass('hidden');
+    });
+
     return formValid;
   })
 });
