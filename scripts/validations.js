@@ -10,8 +10,6 @@ $(document).ready(function(){
     $("#comment").attr("required", false);
   })
 
-
-
   //form validation
   $("#preoderForm").on("submit", function(){
     var formValid = true;
@@ -56,8 +54,6 @@ $(document).ready(function(){
     $("#navitems").on("click", function () {
       $("#navdropdown").toggleClass('hidden');
     });
-
-
 
     return formValid;
   })

@@ -1,6 +1,7 @@
 $(document).ready(function() {
   // eboard bios
 
+  // slideshow
   var images = [
     "images/friends1.jpg",
     "images/friends2.jpg",
