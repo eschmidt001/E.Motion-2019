@@ -286,27 +286,12 @@ h3 {
   margin: 0 auto;
 }
 
-.source {
-  font-size: 80%;
-}
-
-.indexphotos{
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-}
-
 .row {
   display: flex;
   flex-direction: row;
   width: 100%;
 }
 
-.friendsphoto {
-  width: 44%;
-  margin-left: 4%;
-  align-self: center;
-}
 /* footer*/
 footer{
   text-align: center;
