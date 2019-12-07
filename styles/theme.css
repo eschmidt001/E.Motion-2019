@@ -98,7 +98,7 @@ nav a:hover{
   width: 100%;
 }
 
-/*slideshow interactivity*/
+/*slideshow*/
 .slideshowNext {
   display: block;
   cursor: pointer;
@@ -118,7 +118,6 @@ nav a:hover{
   height: auto;
   width: auto;
 }
-
 
 /*bio interactivity*/
 .overlay {
@@ -188,7 +187,6 @@ nav a:hover{
 }
 
 /*form*/
-
 label{
   float: left;
   flex-direction: row;
