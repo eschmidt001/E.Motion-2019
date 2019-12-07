@@ -99,49 +99,24 @@ nav a:hover{
 }
 
 /*slideshow interactivity*/
-* {
-  box-sizing: border-box;
-}
-
-.container {
-  position: relative;
-}
-
-.myslides{
-  display: none;
-}
-
-.cursor {
+.slideshowNext {
+  display: block;
   cursor: pointer;
+  text-align: center;
+  background-color: white;
+  align-content: center;
 }
 
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 40%;
+.slideshowNext a {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.slideshowContainer {
+  text-align: center;
+  height: auto;
   width: auto;
-  padding: 16px;
-  margin-top: -10px;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-  -webkit-user-select: none;
-}
-
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-}
-
-.numbertext {
-  color: black;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
 }
 
 
