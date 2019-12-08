@@ -166,7 +166,6 @@ nav a:hover{
 }
 
 /*form*/
-
 label{
   float: left;
   flex-direction: row;
@@ -225,8 +224,8 @@ input, select, textarea{
   font-weight: bolder;
   text-shadow: 0 15px 15px rgba(0,0,0,1);
   background-color: rgba(255, 255, 255, 0.66);
-  padding-left: 350px;
-  padding-right: 350px;
+  /*padding-left: 350px;
+  padding-right: 350px;*/
 }
 
 .about {
@@ -264,28 +263,34 @@ h3 {
   margin: 0 auto;
 }
 
-.source {
-  font-size: 80%;
-}
-
-.indexphotos{
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-}
-
 .row {
   display: flex;
   flex-direction: row;
   width: 100%;
 }
 
-.friendsphoto {
-  width: 44%;
-  margin-left: 4%;
-  align-self: center;
+/*slideshow*/
+.slideshowNext {
+  display: block;
+  cursor: pointer;
+  text-align: center;
+  background-color: white;
+  align-content: center;
 }
 
+.slideshowNext a {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+<<<<<<< HEAD
+=======
+.slideshowContainer {
+  text-align: center;
+  height: auto;
+  width: auto;
+}
+>>>>>>> f6798b92961e77d6b78e453c839f8866cca97aef
 
 /* footer*/
 footer{
