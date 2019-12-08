@@ -283,11 +283,14 @@ h3 {
   font-weight: bold;
 }
 
+<<<<<<< HEAD
+=======
 .slideshowContainer {
   text-align: center;
   height: auto;
   width: auto;
 }
+>>>>>>> f6798b92961e77d6b78e453c839f8866cca97aef
 
 /* footer*/
 footer{
