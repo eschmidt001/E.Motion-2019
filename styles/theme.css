@@ -209,7 +209,7 @@ input, select, textarea{
 
 /*index*/
 .teamphoto{
-  display: block;
+  position: relative;
   text-align: center;
 }
 
@@ -221,14 +221,15 @@ input, select, textarea{
   color: black;
   font-family: Montserrat;
   text-transform: uppercase;
-  font-size: 1200px;
-  font-weight: bolder;
   text-shadow: 0 15px 15px rgba(0,0,0,1);
   background-color: rgba(255, 255, 255, 0.66);
-  /*padding-left: 350px;
-  padding-right: 350px;*/
+  padding-left: 350px;
+  padding-right: 350px;
 }
-
+.centered h1 {
+  font-size: 40px;
+  font-weight: bolder;
+}
 .about {
   background-color: rgba(209, 208, 208, 0.75);
   padding: 20px;
@@ -284,11 +285,14 @@ h3 {
   font-weight: bold;
 }
 
+<<<<<<< HEAD
 .slideshowContainer {
   text-align: center;
   height: auto;
   width: auto;
 }
+=======
+>>>>>>> afcaa37723dfdec6a7edf77a73ece90d528f62f3
 
 /* footer*/
 footer{
@@ -378,7 +382,18 @@ footer a {
     font-size: 15px;
   }
 
+<<<<<<< HEAD
   .slideshowContainer img{
     width: 100%;
+=======
+  .slideshowContainer img {
+    width: 100%;
+    height: auto;
+  }
+
+  .centered h1 {
+    font-size: 30px;
+    font-weight: bolder;
+>>>>>>> afcaa37723dfdec6a7edf77a73ece90d528f62f3
   }
 }

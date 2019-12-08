@@ -461,6 +461,7 @@ when DOM is loaded:
 ## Changes Based on Lab 13 Peer Feedback (Final Submission)
 > What changes did you make to your design based on your peers' feedback?
 
+Based on the Lab 13 Peer Feedback, we changed the centering of our design, especially with the images on the index page. We will also be sure to fix our hovering bugs in our eboard page in the desktop version. We decided to add interactivity on our about / index page by making a slideshow for the "Meet the Team" section. We also decided to add a countdown for the apply page.
 
 ## User Testing
 > If you conducted user testing in Milestone 1, you only need to user test 2 more users. Otherwise, you must conduct user testing with 4 users.
