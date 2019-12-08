@@ -1,5 +1,4 @@
 $(document).ready(function() {
-  // eboard bios
 
   // slideshow
   var images = [
