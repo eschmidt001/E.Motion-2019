@@ -4,7 +4,6 @@
   src: url("../fonts/Montserrat/Montserrat-Light.ttf");
 }
 
-
 /*overall theme*/
 border{
   color: red;
@@ -32,6 +31,11 @@ h2 {
   padding: 9px;
 }
 
+.apply p{
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
 
 /* navigation*/
 nav ul li {
@@ -117,11 +121,13 @@ nav a:hover{
 .eboardindividual:hover .overlay{
   opacity: 1;
   display: unset;
+  transition: .5s ease;
 }
 
 .eboardindividual:hover img{
   opacity: 0;
   display: none;
+  transition: .5s ease;
 }
 
 .eboardindividual {

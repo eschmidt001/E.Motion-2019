@@ -34,6 +34,6 @@ $(document).ready(function() {
     var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((distance % (1000 * 60)) / (1000));
 
-    document.getElementById("countdown").innerHTML = days + "d" + hours + "h" + minutes + "m" + seconds + "s" + " until applications open! "+ "yeet";
+    document.getElementById("countdown").innerHTML = days + "d" + hours + "h" + minutes + "m" + seconds + "s";
   });
 });
