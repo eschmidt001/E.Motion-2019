@@ -63,8 +63,7 @@ Need/Want: Apply Page
 ## User(s) (Milestone 1)
 > Tell us about the users (target audience) for this website.
 
-Because the site would also include ticket ordering form, our audience not only includes Cornell students interested in joining E.Motion but also includes people interesting in attending a ticket from E.Motion. Considering majority of the people ordered tickets and went to E.Motion events are Cornell students and staffs, our users would be Cornell students and staffs interested in Kpop.
-
+Our target audience for this this site would be Cornell Students interested in learning more about E.Motion. This includes students interested in learning more about the organization in general, applying, or attending a concert. Because the site would also include ticket ordering form, our audience not only includes Cornell students interested in joining E.Motion but also includes people interesting in attending a ticket from E.Motion. Considering majority of the people ordered tickets and went to E.Motion events are Cornell students and staffs, our users would be Cornell students and staffs interested in Kpop.
 
 ## Discovering Users' Needs (Milestone 1)
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
@@ -169,9 +168,11 @@ Need/Want: Group intro
 ![](desktopsketch.jpg)
 ![](mobilesketch.jpg)
 
-We card sorted four times with the pages of about, events, team, and apply in mind. Our second card sorting included the quarter card and information about their upcoming showcase. However, we thought that it would be better if that was grouped into the events page because that reflects more of the page and not in the about page.
+Our first card sort shows all the content our client would like scrambled. Our second card sorting included the quarter card and information about their upcoming showcase. However, we thought that it would be better if that was grouped into the events page because that reflects more of the page and not in the about page. Our third card sort reflects these changes. We card sorted three times which resulted in the creation of navigation pages about, events, eboard, and apply.
 
-Our overall theme is clean but lively. We have a white background, simple and sleek with a black logo. We will have medium sized fonts so the pictures will speak for themselves. In terms of clean, our background colors and primary black colors will emphasize this. For our liveliness, we will incorporate a lot of images to show descriptions and the actual works of Emotion.
+Our thought process behind our design came directly from the needs and wants of our client. The about page features a team photo, "who we are", and E.Motion's mission and values. This reflects the basics of who their group is for users who would like to learn more about this dance group. The events page has their upcoming events and past events with credits, quartercards, and other corresponding images. This is helpful for users who are interested in finding consolidated information about their performances in the future but also what they've done in the past. The interactive ticket form allows users to directly purchase this ticket from the website. This fits with the client's wants of having all the information needed in one place. The eboard page features the key eboard members, their name, majors, and other basic information. Finally, our apply page shows basic information about the application process for Spring 2020.
+
+Our overall theme is clean but lively. We have a white background, simple and sleek with a black logo. We will have medium sized fonts so the pictures will speak for themselves. In terms of clean, our background colors and primary black colors will emphasize this. For our liveliness, we will incorporate a lot of images to show descriptions and the actual works of Emotion. Our theme fits with our user's needs because they are Cornell students looking to find more information about E.Motion. They will appreciate a clean theme that is clear to follow but also lively photos that shows the actual work of E.Motion. The theme fits with our client's needs because their main requirement is to show centralized information about their group. Our client's aesthetic is a clean image, shown with their logo and quick dance moves. That will be reflected in the theme of the website. Our client is also a dance group so they would appreciate a lively theme that shows how interactive their dances are.
 
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
@@ -194,67 +195,70 @@ Our overall theme is clean but lively. We have a white background, simple and sl
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+User 1 is a senior CS major in the Engineering college at Cornell.  He enjoys music and arts-oriented shows, specially percussion and a-cappella shows.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
+
+Yes
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
 
 ### User 1 - **Desktop** (Milestone 1)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: Order 2 tickets for the next upcoming show.
+Task: Find the location of where E.Motion performed during the Spring 2019 concert.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user clicked the "about" link, which left them on the same page, then tried clicking the logo, then clicked the events link.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user about it difficult to identify the about page as the home.  
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - I think this issue could be resolved by either renaming the "about" link to "home" or by having the actual website be clear in this. The paper draft was not entirely explicit and the user seemed distracted at the time of the test.  
 - **Re-design choices**
-  - TODO
+  - N/A
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-Task: Find what emotion danced in the past.
+Task: You are an Cornell student interested in learning more about the team behind E.Motion. Find the current president's name and major of E.Motion.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user tried to click "about", then clicked the link to the Eboard.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  -  none.  The user swiftly found the correct page.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - It was satisfactory.
 - **Re-design choices**
-  - TODO
+  - N/A
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-Task: Find the president of emotion.
+Task: Order 2 tickets for the next upcoming show next semester using the email cornell_student@cornell.edu.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user clicked "events", filled in the form correctly, ordered, and then did it again.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  -  The user calmly did the task and found it easy.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - The user had to submit the form twice, which is not optimal to the function
 - **Re-design choices**
-  - TODO
+  - Add a "number of tickets" field to the form.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-Task: Apply to join emotion.
+Task: Learn how to apply to join E.Motion for Spring 2020.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user pressed the "apply" link.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - none; the user quickly accepted that he could not apply at this time
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - The user didn't seem particularly interested in joining, which is valid, because he is a senior with a very limited time left at Cornell.
 - **Re-design choices**
-  - TODO
+  - N/A
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
@@ -280,7 +284,7 @@ Yes
 ### User 2 - **Mobile** (Milestone 1)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: Order 2 tickets for the next upcoming show.
+Task: Order 2 tickets for the next upcoming show next semester using the email cornell_student@cornell.edu.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: mobile
 - **How did the user do? Did they meet your expectation?**
@@ -294,7 +298,7 @@ Task: Order 2 tickets for the next upcoming show.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-Task: Find what emotion danced in the past.
+Task: Find the location of where E.Motion performed during the Spring 2019 concert.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: mobile
 - **How did the user do? Did they meet your expectation?**
@@ -308,7 +312,7 @@ Task: Find what emotion danced in the past.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-Task: Find the president of emotion.
+Task: You are an Cornell student interested in learning more about the team behind E.Motion. Find the current president's name and major of E.Motion.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: mobile
 - **How did the user do? Did they meet your expectation?**
@@ -322,7 +326,7 @@ Task: Find the president of emotion.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-Task: Apply to join emotion.
+Task: Learn how to apply to join E.Motion for Spring 2020.
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: mobile
 - **How did the user do? Did they meet your expectation?**
@@ -469,70 +473,157 @@ Based on the Lab 13 Peer Feedback, we changed the centering of our design, espec
 ### User 3 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](user3test.jpg)
 
 ### User 3 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+User 3 studies Industrial and Labor Relations at Cornell. She is an undergraduate who is passionate about labors rights. She has no job on campus. She is also interested in kpop.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
+
+Yes. She is a Cornell student interested in learning more about E.Motion.
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
 
 ### User 3 - **Desktop** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: Find the location of where E.Motion's Weki Meki Dance Workshop is.
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - She starts in about page, clicks on the events page, looks closely at the pink photo. This met my expectations.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user enjoyed the design as it was very easy to spot the workshop.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - I thought the user's performance was great. She was able to efficiently look at the designs
 - **Re-design choices**
-  - TODO
+  - N/A
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-...
+Task: You are an Cornell student interested in learning more about the team behind E.Motion. Find the current president's name and major of E.Motion.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectation?**
+  - She went on the eboard site, it was laggy, saw Jaewon as philosophy major as it was first to pop up
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  -  She thought the UX was a little laggy
+- **Your reflections about the user’s performance to the task**
+  - It was satisfactory.
+- **Re-design choices**
+  - N/A
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
+
+Task: Order 2 tickets for the next upcoming show next semester using the email cornell_student@cornell.edu.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectation?**
+  - User asked "do I actually do that" then proceeded to go to events, enters her name, cornell_student@cornell.edu, 2 tickets, and says "I'm placing order"
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  -  The user calmly did the task and found it easy.
+- **Your reflections about the user’s performance to the task**
+  - The user followed all the instructions and I am satisfied with performance
+- **Re-design choices**
+  - N/A
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
+
+Task: Learn how to apply to join E.Motion for Spring 2020.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectation?**
+  - The user pressed the "apply" link.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - none, the user was disappointed that she could not apply
+- **Your reflections about the user’s performance to the task**
+  - The user performed the task swiftly and I am satisfied
+- **Re-design choices**
+  - N/A
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
 
 
 ### User 4 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](user4test.jpg)
 
 ### User 4 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+User 4 is a economics major in the Arts and Sciences school. He is employed by Student Agencies and is a Cornell sophomore interested in learning more about E.Motion
 
 2. Does the user belong to your target audience of the site? (Yes / No)
+
+Yes
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
 
 ### User 4 - **Mobile** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: You are an Cornell student interested in learning more about the team behind E.Motion. Find the current president's name and major of E.Motion.
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - clicks on events, sees the interactivity switch
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  -  none.  The user was able to find the president as she was the first one. He enjoyed the UX experience
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - I was glad to hear that he had a positive experience and found the president's information.
 - **Re-design choices**
-  - TODO
+  - N/A
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-...
+Task: Find the location of where E.Motion's Weki Meki Dance Workshop is.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: mobile
+- **How did the user do? Did they meet your expectation?**
+  - The user scrolls on the about page, goes to events, sees the first one and doesn't say location. He is prompted to say the location. He met my expectations because he was able to locate Willard Straight but needed prompting because he forgot the task.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - The user found it helpful to have the poster.   
+- **Your reflections about the user’s performance to the task**
+  - I am satisfied with the user's performance because he was able to locate the event swiftly  
+- **Re-design choices**
+  - N/A
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
 
+Task: Learn how to apply to join E.Motion for Spring 2020.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: mobile
+- **How did the user do? Did they meet your expectation?**
+  - Clicks apply link, expresses "nooooo" This met my expectations because he was able to locate the page.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - none; the user was upset that he wasn't able to apply for Spring 2020.
+- **Your reflections about the user’s performance to the task**
+  - I am happy that the user was able to locate this task but he seemed upset because he isn't able to apply.
+- **Re-design choices**
+  - To make it more positive, we will make a countdown page for the apply page.
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
+
+Task: Order 2 tickets for the next upcoming show next semester using the email cornell_student@cornell.edu.
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: mobile
+- **How did the user do? Did they meet your expectation?**
+  - The user expressed "I've been waiting for this," was excited to fill out the form and filled out the form accordingly.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  -  The user filled out within a minute and had no complaint.
+- **Your reflections about the user’s performance to the task**
+  - The form did not go through because we had no internet but otherwise I am satisfied with user's performance.
+- **Re-design choices**
+  - N/A
+- **Additional Notes**
+  - TODO: Justify your decisions; additional notes.
 
 ### User 5 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
@@ -605,15 +696,21 @@ Task: [TODO: copy task here]
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
+After our two final user testings, we decided to work on the making sure there are no design glitches in interactivity for the eboard page and adding a count down for the apply page.
 
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
 
+There is no previous website of the client but our theme of a very clean and simple aesthetic fits the aesthetic of our target audience and our client. The montserrat font, simple white and black theme, and the clean alignment helps cultivate this theme. Another strength would be the interactivity of our page where users may click through the slideshow to see the photos of who actually makes up E.Motion. The user also can hover over different eboard members to see their bios. A third strength would be the form that allows for users to directly buy from our website.
 
 > 2. Tell us about things that don't work, what you wanted to implement, or what you would do if you keep working with the client in the future. Give justifications.
 
+We hoped to have a holographic drop down nav bar on the mobile version for interactivity. However, we were unable to implement this because other interactivity was a priority such as the eboard hovering, the form, and the slideshow. If we had additional time and human capital, we would like to implement this dropdown menu in the future.
 
 > 3. Tell us what you, as a team, learned while working on this project.
 
+Us, as a team, learned that people have various value adds to every team. One person may have in depth experience with javascript while the other may be good at css. It is important to acknowledge these strengths but also give everyone an equal role in coding and designing. Communication is also key to a successful team because messaging each other on Facebook whenever we had questions or was able to begin working made our workflow more streamlined and efficient.
 
 > 4. Tell us anything else you need us to know for when we're looking at the project.
+
+N/A 
