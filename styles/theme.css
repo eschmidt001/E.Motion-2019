@@ -25,12 +25,13 @@ h2 {
   text-align: center;
 }
 
-/*apply*/
+/*apply, countdown*/
 .apply h1{
   font-weight: bold;
   background-color: rgba(198, 197, 197, 0.2);
   padding: 9px;
 }
+
 
 /* navigation*/
 nav ul li {
@@ -209,7 +210,7 @@ input, select, textarea{
 
 /*index*/
 .teamphoto{
-  position: relative;
+  display: block;
   text-align: center;
 }
 
@@ -221,15 +222,14 @@ input, select, textarea{
   color: black;
   font-family: Montserrat;
   text-transform: uppercase;
+  font-size: 1200px;
+  font-weight: bolder;
   text-shadow: 0 15px 15px rgba(0,0,0,1);
   background-color: rgba(255, 255, 255, 0.66);
-  padding-left: 350px;
-  padding-right: 350px;
+  /*padding-left: 350px;
+  padding-right: 350px;*/
 }
-.centered h1 {
-  font-size: 40px;
-  font-weight: bolder;
-}
+
 .about {
   background-color: rgba(209, 208, 208, 0.75);
   padding: 20px;
@@ -290,7 +290,6 @@ h3 {
   height: auto;
   width: auto;
 }
-
 
 /* footer*/
 footer{
@@ -382,11 +381,5 @@ footer a {
 
   .slideshowContainer img{
     width: 100%;
-    height: auto;
-  }
-
-  .centered h1 {
-    font-size: 30px;
-    font-weight: bolder;
   }
 }
