@@ -181,6 +181,10 @@ label[for="no"], label[for="yes"]{
   float: none;
 }
 
+.radio{
+  display: inline;
+}
+
 input, select, textarea{
   padding-right: 5px;
   width: 250px;
@@ -367,6 +371,16 @@ footer a {
     padding: 0px;
     text-align: left;
     font-weight: bold;
+  }
+
+  #no, #yes{
+    align-self: flex-start;
+    width: 20px;
+    padding: 0;
+  }
+
+  label[for="no"], label[for="yes"]{
+    display: inline;
   }
 
   .radio{

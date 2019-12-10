@@ -275,6 +275,7 @@ Task: Learn how to apply to join E.Motion for Spring 2020.
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
 User 2 is a sophomore in the College of Arts and Science at Cornell.  He plays drums and the saxophone, and enjoys campus shows and concerts.  
 
 2. Does the user belong to your target audience of the site? (Yes / No)
@@ -430,9 +431,8 @@ when DOM is loaded:
 ```
 Eboard Bios
 ```
-when DOM is loaded:
-    hide bio
-    show headshot
+  hide bio
+  show headshot
   when eboard image is hovered/clicked (desktop/mobile):
     show bio
     hide headshot
