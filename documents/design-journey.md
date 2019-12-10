@@ -189,6 +189,7 @@ Our overall theme is clean but lively. We have a white background, simple and sl
 ### User 1 - Testing Notes (Milestone 1)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![](user1test.jpg)
 
 ### User 1 (Milestone 1)
 > Using your notes from above, describe your user by answering the questions below.
