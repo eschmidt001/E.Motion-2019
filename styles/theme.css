@@ -111,6 +111,7 @@ nav a:hover{
   top: 0px;
   opacity: 0;
 }
+
 .text{
   position: absolute;
   top: 0px;
@@ -123,7 +124,6 @@ nav a:hover{
 
 .eboardindividual:hover img{
   opacity: 0;
-  /*display: none;*/
   transition: 1s ease;
 }
 
@@ -166,7 +166,6 @@ nav a:hover{
 /*form*/
 label{
   float: left;
-  flex-direction: row;
   width: 100px;
   padding-right: 5px;
   text-align: right;
@@ -222,8 +221,6 @@ input, select, textarea{
   font-weight: bolder;
   text-shadow: 0 15px 15px rgba(0,0,0,1);
   background-color: rgba(255, 255, 255, 0.66);
-  /*padding-left: 350px;
-  padding-right: 350px;*/
 }
 
 .about {
@@ -308,6 +305,11 @@ footer a {
   nav ul li{
     border: solid maroon;
     text-align: center;
+    width: 100%;
+  }
+
+  header {
+    flex-direction: column;
   }
 
   /*eboard*/
@@ -321,7 +323,7 @@ footer a {
   }
 
   /*eboard interactivity*/
-  .eboardindividual:hover .overlay{
+  /*.eboardindividual:hover .overlay{
     opacity: 1;
     display: unset;
   }
@@ -334,29 +336,60 @@ footer a {
   .eboardindividual:focus .overlay{
     display: unset;
     position: relative;
+  }*/
+
+  .eboardindividual:focus .overlay{
+    opacity: 1;
+    transition: 0.5s ease;
+  }
+
+  .eboardindividual:focus img{
+    opacity: 0;
+    transition: 0.5s ease;
   }
 
   /*events*/
-  #upcoming{
+  #upcoming, .past{
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 95%;
+    justify-content: center;
   }
 
-  .past{
-    display: flex;
-    flex-direction: column;
-  }
   .poster{
     width: 100%;
-  }
-
-  .poster img{
-    justify-content: space-around;
+    padding: 0px;
+    margin: 0px;
   }
 
   .info, #form{
+    width: 90%;
+  }
+
+  /*form*/
+  #form div{
+    display: flex;
+    flex-direction: column;
+  }
+
+  input, select, textarea{
+    padding: 0px;
     width: 100%;
+  }
+
+  label{
+    padding: 0px;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  .radio{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .radio label{
+    text-align: center;
   }
 
   /*index*/
@@ -370,7 +403,7 @@ footer a {
   }
 
   .centered h1 {
-    font-size: 15px;
+    display: none;
   }
 
   .slideshowContainer img{
