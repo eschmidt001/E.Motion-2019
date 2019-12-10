@@ -179,7 +179,7 @@ Our overall theme is clean but lively. We have a white background, simple and sl
 
 - Ticket Order form (no payment) - allows client to sell tickets to audience without in-person contact
 - E-board bios pop out after clicking the person’s name - this allows the bios to be part of the page (thus highlighting the group’s membership) without cluttering the page.
-- Mobile Navigation bar pop-out: the navigation bar appears after clicking on the navigation icon. This creates a cleaner mobile site experience for the user.
+- Image Slideshow: multiple images can be displayed and navigated to one at a time to avoid cluttering the page but still highlight the work of the group
 - Desktop Navigation link hover holographic: the responsiveness of the navigation link provides positive feedback to the user that it's a clickable link.
 
 
@@ -415,27 +415,39 @@ when DOM is loaded:
       show pickup feedback
       formvalid <-- False
 
+    if No radio button selected:
+      hide comment area
+    else if Yes radio button selected
+      show comment area
+      if comment area meets HTML validation criteria:
+        hide comment feedback
+      else
+        show comment Feedback
+        formvalid <-- False
+
     send form to server if formvalid is true
 ```
 Eboard Bios
 ```
 when DOM is loaded:
     hide bio
-  when eboardindividual is clicked
+    show headshot
+  when eboard image is hovered/clicked (desktop/mobile):
     show bio
+    hide headshot
+
 ```
-Mobile Navigation
+Slideshow
 ```
 when DOM is loaded:
-  if width less than 800px (mobile)
-    hide navigation
+  slideshowElement <-- 0
 
-    if navigation is hidden
-      when navigation button clicked
-        show navigation
-    else if navigation button no hidden
-      when navigation button clicked
-        hide navigation
+  when slideshow button clicked:
+    if not last slideshow element:
+      show next element of slideshow
+    if last slideshow element:
+      show first element of slideshow
+
 ```
 Desktop Navigation
 ```
@@ -713,4 +725,4 @@ Us, as a team, learned that people have various value adds to every team. One pe
 
 > 4. Tell us anything else you need us to know for when we're looking at the project.
 
-N/A 
+N/A
