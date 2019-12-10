@@ -43,6 +43,7 @@ nav ul li {
   padding: 10px;
   font-family: Montserrat;
   font-weight:lighter;
+  list-style-type: none;
 }
 
 nav {
@@ -298,9 +299,19 @@ footer a {
 /* mobile*/
 @media (max-width: 800px){
   /*nav*/
+  nav{
+    text-align: center;
+  }
+
+  nav ul li a{
+    text-align: center;
+  }
+
   nav ul{
     display: flex;
     flex-direction: column;
+    width: 75%;
+    justify-content: space-around;
   }
 
   nav ul li{
@@ -309,8 +320,14 @@ footer a {
     width: 100%;
   }
 
+  .heading{
+    width:75%;
+    align-self: center;
+  }
+
   header {
     flex-direction: column;
+    justify-content: center;
   }
 
   /*eboard*/
