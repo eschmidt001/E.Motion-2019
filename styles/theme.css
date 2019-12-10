@@ -182,10 +182,6 @@ label[for="no"], label[for="yes"]{
   float: none;
 }
 
-.radio{
-  display: inline;
-}
-
 input, select, textarea{
   padding-right: 5px;
   width: 250px;
@@ -319,7 +315,7 @@ footer a {
   }
 
   nav ul li{
-    border: solid maroon;
+    border: solid grey;
     text-align: center;
     width: 100%;
   }
@@ -389,26 +385,9 @@ footer a {
     text-align: left;
     font-weight: bold;
   }
-
-  #no, #yes{
-    align-self: flex-start;
-    width: 20px;
-    padding: 0;
-  }
-
-  label[for="no"], label[for="yes"]{
-    display: inline;
-  }
-
-  .radio{
-    display: flex;
-    flex-direction: row;
-  }
-
   .radio label{
-    text-align: center;
+    text-align: right;
   }
-
   /*index*/
   .row {
     display: block;
