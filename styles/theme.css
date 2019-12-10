@@ -110,6 +110,7 @@ nav a:hover{
   position: absolute;
   top: 0px;
   opacity: 0;
+  width: 100%
 }
 
 .text{
@@ -323,21 +324,6 @@ footer a {
   }
 
   /*eboard interactivity*/
-  /*.eboardindividual:hover .overlay{
-    opacity: 1;
-    display: unset;
-  }
-  .eboardindividual:hover img{
-    opacity: 1;
-  }
-  .eboardindividual .overlay{
-    display: none;
-  }
-  .eboardindividual:focus .overlay{
-    display: unset;
-    position: relative;
-  }*/
-
   .eboardindividual:focus .overlay{
     opacity: 1;
     transition: 0.5s ease;
